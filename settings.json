@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ahmed_77.aternos.me:16422",
+    "ip": "ahmed_77.aternos.me",
     "port": 16422,
     "version": "",
     "try-creative": false
