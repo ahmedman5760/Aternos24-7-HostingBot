@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "ahmed_77.aternos.me:16422",
+    "port": 16422,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+       "sub to my youtube channel ! https://youtube.com/@ahmedmansourime?si=Tg65gO6_dFeMtVhE",
+        "to sell item make it on your hand and /sellall hand",
+        "you can buy items by /buy <item> <amount>",
+        "you can try the shop by /shop",
+        "you can try /rtp to teleport to random place"
       ]
     },
     "chat-log": true,
